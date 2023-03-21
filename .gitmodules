@@ -4,4 +4,4 @@
 [submodule "third_party/wasm-micro-runtime"]
 	path = runtime/cpp/third_party/wasm-micro-runtime
 	url = https://github.com/bytecodealliance/wasm-micro-runtime
-	
+	branch = main
